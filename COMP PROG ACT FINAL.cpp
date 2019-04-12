@@ -15,53 +15,53 @@ int main()
 	cin >> year; 
 	
 	
-	if (month==1 && day <=31 && year >=1900)
+	if (month==1 && day <=31 && year >=2010)
 	cout <<"January" << "  " << day << "," << year<< endl;
-	else if (month==1 && day > 31 && year < 1900)
+	else if (month==1 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==2 && day <=28 && year >=1900)
+	if (month==2 && day <=28 && year >=2010)
 	cout <<"February" << "  " << day << "," << year<< endl;
-	else if (month==2 && day > 28 && year < 1900)
+	else if (month==2 && day > 28 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==3 && day <=31 && year >=1900)
+	if (month==3 && day <=31 && year >=2010)
 	cout <<"March" << "  " << day << "," << year<< endl;
-	else if (month==3 && day > 31 && year < 1900)
+	else if (month==3 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==4 && day <=30 && year >=1900)
+	if (month==4 && day <=30 && year >=2010)
 	cout <<"April" << "  " << day << "," << year<< endl;
-	else if (month==4 && day > 30 && year < 1900)
+	else if (month==4 && day > 30 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==5 && day <=31 && year >=1900)
+	if (month==5 && day <=31 && year >=2010)
 	cout <<"May" << "  " << day << "," << year<< endl;
-	else if (month==5 && day > 31 && year < 1900)
+	else if (month==5 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==6 && day <=30 && year >=1900)
+	if (month==6 && day <=30 && year >=2010)
 	cout <<"June" << "  " << day << "," << year<< endl;
-	else if (month==6 && day > 30 && year < 1900)
+	else if (month==6 && day > 30 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==7 && day <=31 && year >=1900)
+	if (month==7 && day <=31 && year >=2010)
 	cout <<"July" << "  " << day << "," << year<< endl;
-	else if (month==7 && day > 31 && year < 1900)
+	else if (month==7 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==8 && day <=31 && year >=1900)
+	if (month==8 && day <=31 && year >=2010)
 	cout <<"August" << "  " << day << "," << year<< endl;
-	else if (month==8 && day > 31 && year < 1900)
+	else if (month==8 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==9 && day <=30 && year >=1900)
+	if (month==9 && day <=30 && year >=2010)
 	cout <<"September" << "  " << day << "," << year<< endl;
-	else if (month==9 && day > 30 && year < 1900)
+	else if (month==9 && day > 30 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==10 && day <=31 && year >=1900)
+	if (month==10 && day <=31 && year >=2010)
 	cout <<"October" << "  " << day << "," << year<< endl;
-	else if (month==10 && day > 31 && year < 1900)
+	else if (month==10 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==11 && day <=30 && year >=1900)
+	if (month==11 && day <=30 && year >=2010)
 	cout <<"November" << "  " << day << "," << year<< endl;
-	else if (month==11 && day > 30 && year < 1900)
+	else if (month==11 && day > 30 && year < 2010)
 	cout << "Invalid date" << endl;
-	if (month==12 && day <=31 && year >=1900)
+	if (month==12 && day <=31 && year >=2010)
 	cout <<"December" << "  " << day << "," << year<< endl;
-	else if (month==12 && day > 31 && year < 1900)
+	else if (month==12 && day > 31 && year < 2010)
 	cout << "Invalid date" << endl;
 	
 	
